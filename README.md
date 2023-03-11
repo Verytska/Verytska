@@ -1,8 +1,8 @@
 ### Hallo 👋
 Mein Name ist Aivі 😊
-Ich lerne derzeit in Integrationskursen aktiv die deutsche Sprache  
+Ich lerne derzeit in Integrationskursen aktiv die deutsche Sprache.  
 In der Ukraine habe ich als Personalvermittlerin in einem IT-Unternehmen gearbeitet. 
-Momentan besuche ich Integrationskurse und einen Computerkurs in ReDi SChool, um schneller Fuß fassen zu können und eine Arbeit zu finden.
+Momentan besuche ich einen Computerkurs in ReDi SChool, um schneller Fuß fassen zu können und eine Arbeit zu finden.
 
 
 <!--
